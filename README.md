@@ -12,3 +12,9 @@ Topics - a) Password Generator Application
 
 --------------
 
+Date - 01-02-25
+
+Topics - a) Profile Page Application
+
+--------------
+
